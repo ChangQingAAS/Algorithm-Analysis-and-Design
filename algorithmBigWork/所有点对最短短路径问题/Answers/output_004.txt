@@ -1,0 +1,38 @@
+运行时间(us)为：1.8
+
+The path is from 0 to 1 is: 0 2 1 
+The cost of the path is 68.2521
+
+The path is from 0 to 2 is: 0 2 
+The cost of the path is 0.281843
+
+The path is from 0 to 3 is: 0 2 3 
+The cost of the path is 71.3522
+
+The path is from 1 to 0 is: 1 0 
+The cost of the path is 65.5098
+
+The path is from 1 to 2 is: 1 2 
+The cost of the path is 65.7916
+
+The path is from 1 to 3 is: 1 3 
+The cost of the path is 16.2612
+
+The path is from 2 to 0 is: 2 1 0 
+The cost of the path is 133.48
+
+The path is from 2 to 1 is: 2 1 
+The cost of the path is 67.9703
+
+The path is from 2 to 3 is: 2 3 
+The cost of the path is 71.0704
+
+The path is from 3 to 0 is: 3 0 
+The cost of the path is 70.5774
+
+The path is from 3 to 1 is: 3 2 1 
+The cost of the path is 138.83
+
+The path is from 3 to 2 is: 3 2 
+The cost of the path is 70.8592
+

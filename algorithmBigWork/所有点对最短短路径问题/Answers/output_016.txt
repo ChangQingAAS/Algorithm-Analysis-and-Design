@@ -1,0 +1,722 @@
+运行时间(us)为：85.4
+
+The path is from 0 to 1 is: 0 1 
+The cost of the path is 5.47918
+
+The path is from 0 to 2 is: 0 5 3 11 2 
+The cost of the path is 24.6963
+
+The path is from 0 to 3 is: 0 5 3 
+The cost of the path is 15.7021
+
+The path is from 0 to 4 is: 0 5 3 11 2 10 4 
+The cost of the path is 47.5701
+
+The path is from 0 to 5 is: 0 5 
+The cost of the path is 4.22978
+
+The path is from 0 to 6 is: 0 5 8 6 
+The cost of the path is 49.4743
+
+The path is from 0 to 7 is: 0 5 3 11 7 
+The cost of the path is 41.6912
+
+The path is from 0 to 8 is: 0 5 8 
+The cost of the path is 16.3956
+
+The path is from 0 to 9 is: 0 9 
+The cost of the path is 28.5947
+
+The path is from 0 to 10 is: 0 5 3 11 2 10 
+The cost of the path is 34.8973
+
+The path is from 0 to 11 is: 0 5 3 11 
+The cost of the path is 22.7705
+
+The path is from 0 to 12 is: 0 5 3 12 
+The cost of the path is 35.7833
+
+The path is from 0 to 13 is: 0 5 13 
+The cost of the path is 77.2081
+
+The path is from 0 to 14 is: 0 5 3 11 14 
+The cost of the path is 55.937
+
+The path is from 0 to 15 is: 0 5 8 6 15 
+The cost of the path is 62.5235
+
+The path is from 1 to 0 is: 1 3 0 
+The cost of the path is 76.3772
+
+The path is from 1 to 2 is: 1 2 
+The cost of the path is 46.6963
+
+The path is from 1 to 3 is: 1 3 
+The cost of the path is 74.3604
+
+The path is from 1 to 4 is: 1 2 10 4 
+The cost of the path is 69.5701
+
+The path is from 1 to 5 is: 1 3 5 
+The cost of the path is 80.607
+
+The path is from 1 to 6 is: 1 9 8 6 
+The cost of the path is 77.0709
+
+The path is from 1 to 7 is: 1 2 7 
+The cost of the path is 66.244
+
+The path is from 1 to 8 is: 1 9 8 
+The cost of the path is 43.9922
+
+The path is from 1 to 9 is: 1 9 
+The cost of the path is 31.3907
+
+The path is from 1 to 10 is: 1 2 10 
+The cost of the path is 56.8973
+
+The path is from 1 to 11 is: 1 11 
+The cost of the path is 58.2433
+
+The path is from 1 to 12 is: 1 12 
+The cost of the path is 73.5117
+
+The path is from 1 to 13 is: 1 14 13 
+The cost of the path is 103.66
+
+The path is from 1 to 14 is: 1 14 
+The cost of the path is 67.0448
+
+The path is from 1 to 15 is: 1 9 8 6 15 
+The cost of the path is 90.1201
+
+The path is from 2 to 0 is: 2 6 3 0 
+The cost of the path is 42.7382
+
+The path is from 2 to 1 is: 2 6 3 1 
+The cost of the path is 48.2174
+
+The path is from 2 to 3 is: 2 6 3 
+The cost of the path is 40.7214
+
+The path is from 2 to 4 is: 2 10 4 
+The cost of the path is 22.8738
+
+The path is from 2 to 5 is: 2 6 3 5 
+The cost of the path is 46.968
+
+The path is from 2 to 6 is: 2 6 
+The cost of the path is 36.1022
+
+The path is from 2 to 7 is: 2 7 
+The cost of the path is 19.5477
+
+The path is from 2 to 8 is: 2 7 8 
+The cost of the path is 34.4644
+
+The path is from 2 to 9 is: 2 9 
+The cost of the path is 32.9175
+
+The path is from 2 to 10 is: 2 10 
+The cost of the path is 10.201
+
+The path is from 2 to 11 is: 2 12 11 
+The cost of the path is 45.0512
+
+The path is from 2 to 12 is: 2 12 
+The cost of the path is 40.3491
+
+The path is from 2 to 13 is: 2 10 4 14 13 
+The cost of the path is 80.07
+
+The path is from 2 to 14 is: 2 10 4 14 
+The cost of the path is 43.4543
+
+The path is from 2 to 15 is: 2 6 15 
+The cost of the path is 49.1514
+
+The path is from 3 to 0 is: 3 0 
+The cost of the path is 2.01681
+
+The path is from 3 to 1 is: 3 1 
+The cost of the path is 7.49599
+
+The path is from 3 to 2 is: 3 11 2 
+The cost of the path is 8.99418
+
+The path is from 3 to 4 is: 3 11 2 10 4 
+The cost of the path is 31.868
+
+The path is from 3 to 5 is: 3 5 
+The cost of the path is 6.24659
+
+The path is from 3 to 6 is: 3 8 6 
+The cost of the path is 37.8188
+
+The path is from 3 to 7 is: 3 11 7 
+The cost of the path is 25.9891
+
+The path is from 3 to 8 is: 3 8 
+The cost of the path is 4.74015
+
+The path is from 3 to 9 is: 3 9 
+The cost of the path is 30.6115
+
+The path is from 3 to 10 is: 3 11 2 10 
+The cost of the path is 19.1952
+
+The path is from 3 to 11 is: 3 11 
+The cost of the path is 7.06843
+
+The path is from 3 to 12 is: 3 12 
+The cost of the path is 20.0812
+
+The path is from 3 to 13 is: 3 11 14 13 
+The cost of the path is 76.8506
+
+The path is from 3 to 14 is: 3 11 14 
+The cost of the path is 40.2349
+
+The path is from 3 to 15 is: 3 8 6 15 
+The cost of the path is 50.868
+
+The path is from 4 to 0 is: 4 3 0 
+The cost of the path is 49.7098
+
+The path is from 4 to 1 is: 4 3 1 
+The cost of the path is 55.189
+
+The path is from 4 to 2 is: 4 3 11 2 
+The cost of the path is 56.6872
+
+The path is from 4 to 3 is: 4 3 
+The cost of the path is 47.693
+
+The path is from 4 to 5 is: 4 3 5 
+The cost of the path is 53.9396
+
+The path is from 4 to 6 is: 4 14 6 
+The cost of the path is 43.7043
+
+The path is from 4 to 7 is: 4 14 6 7 
+The cost of the path is 64.5938
+
+The path is from 4 to 8 is: 4 15 9 8 
+The cost of the path is 47.8328
+
+The path is from 4 to 9 is: 4 15 9 
+The cost of the path is 35.2313
+
+The path is from 4 to 10 is: 4 14 10 
+The cost of the path is 23.3104
+
+The path is from 4 to 11 is: 4 3 11 
+The cost of the path is 54.7614
+
+The path is from 4 to 12 is: 4 14 6 12 
+The cost of the path is 58.9277
+
+The path is from 4 to 13 is: 4 14 13 
+The cost of the path is 57.1962
+
+The path is from 4 to 14 is: 4 14 
+The cost of the path is 20.5805
+
+The path is from 4 to 15 is: 4 15 
+The cost of the path is 26.8439
+
+The path is from 5 to 0 is: 5 3 0 
+The cost of the path is 13.4891
+
+The path is from 5 to 1 is: 5 3 1 
+The cost of the path is 18.9683
+
+The path is from 5 to 2 is: 5 3 11 2 
+The cost of the path is 20.4665
+
+The path is from 5 to 3 is: 5 3 
+The cost of the path is 11.4723
+
+The path is from 5 to 4 is: 5 3 11 2 10 4 
+The cost of the path is 43.3403
+
+The path is from 5 to 6 is: 5 8 6 
+The cost of the path is 45.2445
+
+The path is from 5 to 7 is: 5 3 11 7 
+The cost of the path is 37.4614
+
+The path is from 5 to 8 is: 5 8 
+The cost of the path is 12.1658
+
+The path is from 5 to 9 is: 5 3 9 
+The cost of the path is 42.0838
+
+The path is from 5 to 10 is: 5 3 11 2 10 
+The cost of the path is 30.6675
+
+The path is from 5 to 11 is: 5 3 11 
+The cost of the path is 18.5407
+
+The path is from 5 to 12 is: 5 3 12 
+The cost of the path is 31.5535
+
+The path is from 5 to 13 is: 5 13 
+The cost of the path is 72.9783
+
+The path is from 5 to 14 is: 5 3 11 14 
+The cost of the path is 51.7072
+
+The path is from 5 to 15 is: 5 8 6 15 
+The cost of the path is 58.2937
+
+The path is from 6 to 0 is: 6 3 0 
+The cost of the path is 6.63597
+
+The path is from 6 to 1 is: 6 3 1 
+The cost of the path is 12.1151
+
+The path is from 6 to 2 is: 6 3 11 2 
+The cost of the path is 13.6133
+
+The path is from 6 to 3 is: 6 3 
+The cost of the path is 4.61916
+
+The path is from 6 to 4 is: 6 15 10 4 
+The cost of the path is 34.8941
+
+The path is from 6 to 5 is: 6 3 5 
+The cost of the path is 10.8657
+
+The path is from 6 to 7 is: 6 7 
+The cost of the path is 20.8895
+
+The path is from 6 to 8 is: 6 3 8 
+The cost of the path is 9.35931
+
+The path is from 6 to 9 is: 6 15 9 
+The cost of the path is 21.4366
+
+The path is from 6 to 10 is: 6 15 10 
+The cost of the path is 22.2213
+
+The path is from 6 to 11 is: 6 3 11 
+The cost of the path is 11.6876
+
+The path is from 6 to 12 is: 6 12 
+The cost of the path is 15.2234
+
+The path is from 6 to 13 is: 6 12 13 
+The cost of the path is 80.3584
+
+The path is from 6 to 14 is: 6 3 11 14 
+The cost of the path is 44.8541
+
+The path is from 6 to 15 is: 6 15 
+The cost of the path is 13.0492
+
+The path is from 7 to 0 is: 7 8 6 3 0 
+The cost of the path is 54.6314
+
+The path is from 7 to 1 is: 7 8 6 3 1 
+The cost of the path is 60.1105
+
+The path is from 7 to 2 is: 7 8 2 
+The cost of the path is 46.2428
+
+The path is from 7 to 3 is: 7 8 6 3 
+The cost of the path is 52.6146
+
+The path is from 7 to 4 is: 7 8 4 
+The cost of the path is 58.2428
+
+The path is from 7 to 5 is: 7 8 6 3 5 
+The cost of the path is 58.8611
+
+The path is from 7 to 6 is: 7 8 6 
+The cost of the path is 47.9954
+
+The path is from 7 to 8 is: 7 8 
+The cost of the path is 14.9167
+
+The path is from 7 to 9 is: 7 8 6 15 9 
+The cost of the path is 69.432
+
+The path is from 7 to 10 is: 7 8 2 10 
+The cost of the path is 56.4438
+
+The path is from 7 to 11 is: 7 8 11 
+The cost of the path is 54.8187
+
+The path is from 7 to 12 is: 7 8 12 
+The cost of the path is 61.9792
+
+The path is from 7 to 13 is: 7 8 4 14 13 
+The cost of the path is 115.439
+
+The path is from 7 to 14 is: 7 8 4 14 
+The cost of the path is 78.8233
+
+The path is from 7 to 15 is: 7 8 6 15 
+The cost of the path is 61.0446
+
+The path is from 8 to 0 is: 8 6 3 0 
+The cost of the path is 39.7147
+
+The path is from 8 to 1 is: 8 6 3 1 
+The cost of the path is 45.1938
+
+The path is from 8 to 2 is: 8 2 
+The cost of the path is 31.3261
+
+The path is from 8 to 3 is: 8 6 3 
+The cost of the path is 37.6979
+
+The path is from 8 to 4 is: 8 4 
+The cost of the path is 43.3261
+
+The path is from 8 to 5 is: 8 6 3 5 
+The cost of the path is 43.9444
+
+The path is from 8 to 6 is: 8 6 
+The cost of the path is 33.0787
+
+The path is from 8 to 7 is: 8 2 7 
+The cost of the path is 50.8738
+
+The path is from 8 to 9 is: 8 6 15 9 
+The cost of the path is 54.5152
+
+The path is from 8 to 10 is: 8 2 10 
+The cost of the path is 41.5271
+
+The path is from 8 to 11 is: 8 11 
+The cost of the path is 39.902
+
+The path is from 8 to 12 is: 8 12 
+The cost of the path is 47.0625
+
+The path is from 8 to 13 is: 8 4 14 13 
+The cost of the path is 100.522
+
+The path is from 8 to 14 is: 8 4 14 
+The cost of the path is 63.9066
+
+The path is from 8 to 15 is: 8 6 15 
+The cost of the path is 46.1279
+
+The path is from 9 to 0 is: 9 8 6 3 0 
+The cost of the path is 52.3162
+
+The path is from 9 to 1 is: 9 8 6 3 1 
+The cost of the path is 57.7953
+
+The path is from 9 to 2 is: 9 8 2 
+The cost of the path is 43.9276
+
+The path is from 9 to 3 is: 9 8 6 3 
+The cost of the path is 50.2994
+
+The path is from 9 to 4 is: 9 8 4 
+The cost of the path is 55.9276
+
+The path is from 9 to 5 is: 9 8 6 3 5 
+The cost of the path is 56.5459
+
+The path is from 9 to 6 is: 9 8 6 
+The cost of the path is 45.6802
+
+The path is from 9 to 7 is: 9 8 2 7 
+The cost of the path is 63.4753
+
+The path is from 9 to 8 is: 9 8 
+The cost of the path is 12.6015
+
+The path is from 9 to 10 is: 9 8 2 10 
+The cost of the path is 54.1286
+
+The path is from 9 to 11 is: 9 8 11 
+The cost of the path is 52.5035
+
+The path is from 9 to 12 is: 9 8 12 
+The cost of the path is 59.664
+
+The path is from 9 to 13 is: 9 8 4 14 13 
+The cost of the path is 113.124
+
+The path is from 9 to 14 is: 9 8 4 14 
+The cost of the path is 76.5081
+
+The path is from 9 to 15 is: 9 8 6 15 
+The cost of the path is 58.7294
+
+The path is from 10 to 0 is: 10 4 3 0 
+The cost of the path is 62.3826
+
+The path is from 10 to 1 is: 10 4 3 1 
+The cost of the path is 67.8618
+
+The path is from 10 to 2 is: 10 4 3 11 2 
+The cost of the path is 69.36
+
+The path is from 10 to 3 is: 10 4 3 
+The cost of the path is 60.3658
+
+The path is from 10 to 4 is: 10 4 
+The cost of the path is 12.6728
+
+The path is from 10 to 5 is: 10 4 3 5 
+The cost of the path is 66.6124
+
+The path is from 10 to 6 is: 10 4 14 6 
+The cost of the path is 56.3771
+
+The path is from 10 to 7 is: 10 7 
+The cost of the path is 67.4484
+
+The path is from 10 to 8 is: 10 4 15 9 8 
+The cost of the path is 60.5055
+
+The path is from 10 to 9 is: 10 4 15 9 
+The cost of the path is 47.904
+
+The path is from 10 to 11 is: 10 4 3 11 
+The cost of the path is 67.4342
+
+The path is from 10 to 12 is: 10 4 14 6 12 
+The cost of the path is 71.6005
+
+The path is from 10 to 13 is: 10 4 14 13 
+The cost of the path is 69.869
+
+The path is from 10 to 14 is: 10 4 14 
+The cost of the path is 33.2533
+
+The path is from 10 to 15 is: 10 4 15 
+The cost of the path is 39.5167
+
+The path is from 11 to 0 is: 11 6 3 0 
+The cost of the path is 44.1011
+
+The path is from 11 to 1 is: 11 6 3 1 
+The cost of the path is 49.5802
+
+The path is from 11 to 2 is: 11 2 
+The cost of the path is 1.92575
+
+The path is from 11 to 3 is: 11 6 3 
+The cost of the path is 42.0843
+
+The path is from 11 to 4 is: 11 2 10 4 
+The cost of the path is 24.7996
+
+The path is from 11 to 5 is: 11 6 3 5 
+The cost of the path is 48.3308
+
+The path is from 11 to 6 is: 11 6 
+The cost of the path is 37.4651
+
+The path is from 11 to 7 is: 11 7 
+The cost of the path is 18.9207
+
+The path is from 11 to 8 is: 11 7 8 
+The cost of the path is 33.8374
+
+The path is from 11 to 9 is: 11 2 9 
+The cost of the path is 34.8432
+
+The path is from 11 to 10 is: 11 2 10 
+The cost of the path is 12.1268
+
+The path is from 11 to 12 is: 11 2 12 
+The cost of the path is 42.2749
+
+The path is from 11 to 13 is: 11 14 13 
+The cost of the path is 69.7822
+
+The path is from 11 to 14 is: 11 14 
+The cost of the path is 33.1665
+
+The path is from 11 to 15 is: 11 6 15 
+The cost of the path is 50.5143
+
+The path is from 12 to 0 is: 12 5 3 0 
+The cost of the path is 34.9599
+
+The path is from 12 to 1 is: 12 5 3 1 
+The cost of the path is 40.4391
+
+The path is from 12 to 2 is: 12 11 2 
+The cost of the path is 6.62783
+
+The path is from 12 to 3 is: 12 5 3 
+The cost of the path is 32.9431
+
+The path is from 12 to 4 is: 12 11 2 10 4 
+The cost of the path is 29.5016
+
+The path is from 12 to 5 is: 12 5 
+The cost of the path is 21.4708
+
+The path is from 12 to 6 is: 12 11 6 
+The cost of the path is 42.1672
+
+The path is from 12 to 7 is: 12 11 7 
+The cost of the path is 23.6228
+
+The path is from 12 to 8 is: 12 5 8 
+The cost of the path is 33.6366
+
+The path is from 12 to 9 is: 12 11 2 9 
+The cost of the path is 39.5453
+
+The path is from 12 to 10 is: 12 11 2 10 
+The cost of the path is 16.8288
+
+The path is from 12 to 11 is: 12 11 
+The cost of the path is 4.70208
+
+The path is from 12 to 13 is: 12 13 
+The cost of the path is 65.135
+
+The path is from 12 to 14 is: 12 11 14 
+The cost of the path is 37.8686
+
+The path is from 12 to 15 is: 12 11 6 15 
+The cost of the path is 55.2164
+
+The path is from 13 to 0 is: 13 3 0 
+The cost of the path is 35.5661
+
+The path is from 13 to 1 is: 13 3 1 
+The cost of the path is 41.0453
+
+The path is from 13 to 2 is: 13 2 
+The cost of the path is 29.5254
+
+The path is from 13 to 3 is: 13 3 
+The cost of the path is 33.5493
+
+The path is from 13 to 4 is: 13 10 4 
+The cost of the path is 24.1313
+
+The path is from 13 to 5 is: 13 3 5 
+The cost of the path is 39.7959
+
+The path is from 13 to 6 is: 13 8 6 
+The cost of the path is 42.5065
+
+The path is from 13 to 7 is: 13 7 
+The cost of the path is 34.2374
+
+The path is from 13 to 8 is: 13 8 
+The cost of the path is 9.42784
+
+The path is from 13 to 9 is: 13 9 
+The cost of the path is 6.93561
+
+The path is from 13 to 10 is: 13 10 
+The cost of the path is 11.4585
+
+The path is from 13 to 11 is: 13 3 11 
+The cost of the path is 40.6177
+
+The path is from 13 to 12 is: 13 3 12 
+The cost of the path is 53.6305
+
+The path is from 13 to 14 is: 13 10 4 14 
+The cost of the path is 44.7118
+
+The path is from 13 to 15 is: 13 15 
+The cost of the path is 12.2021
+
+The path is from 14 to 0 is: 14 6 3 0 
+The cost of the path is 29.7598
+
+The path is from 14 to 1 is: 14 6 3 1 
+The cost of the path is 35.239
+
+The path is from 14 to 2 is: 14 6 3 11 2 
+The cost of the path is 36.7371
+
+The path is from 14 to 3 is: 14 6 3 
+The cost of the path is 27.743
+
+The path is from 14 to 4 is: 14 10 4 
+The cost of the path is 15.4028
+
+The path is from 14 to 5 is: 14 6 3 5 
+The cost of the path is 33.9895
+
+The path is from 14 to 6 is: 14 6 
+The cost of the path is 23.1238
+
+The path is from 14 to 7 is: 14 6 7 
+The cost of the path is 44.0133
+
+The path is from 14 to 8 is: 14 6 3 8 
+The cost of the path is 32.4831
+
+The path is from 14 to 9 is: 14 13 9 
+The cost of the path is 43.5513
+
+The path is from 14 to 10 is: 14 10 
+The cost of the path is 2.72995
+
+The path is from 14 to 11 is: 14 6 3 11 
+The cost of the path is 34.8114
+
+The path is from 14 to 12 is: 14 6 12 
+The cost of the path is 38.3472
+
+The path is from 14 to 13 is: 14 13 
+The cost of the path is 36.6157
+
+The path is from 14 to 15 is: 14 6 15 
+The cost of the path is 36.173
+
+The path is from 15 to 0 is: 15 3 0 
+The cost of the path is 56.5806
+
+The path is from 15 to 1 is: 15 3 1 
+The cost of the path is 62.0598
+
+The path is from 15 to 2 is: 15 9 8 2 
+The cost of the path is 52.3149
+
+The path is from 15 to 3 is: 15 3 
+The cost of the path is 54.5638
+
+The path is from 15 to 4 is: 15 10 4 
+The cost of the path is 21.8449
+
+The path is from 15 to 5 is: 15 3 5 
+The cost of the path is 60.8104
+
+The path is from 15 to 6 is: 15 9 8 6 
+The cost of the path is 54.0675
+
+The path is from 15 to 7 is: 15 9 8 2 7 
+The cost of the path is 71.8627
+
+The path is from 15 to 8 is: 15 9 8 
+The cost of the path is 20.9888
+
+The path is from 15 to 9 is: 15 9 
+The cost of the path is 8.38735
+
+The path is from 15 to 10 is: 15 10 
+The cost of the path is 9.17214
+
+The path is from 15 to 11 is: 15 9 8 11 
+The cost of the path is 60.8909
+
+The path is from 15 to 12 is: 15 9 8 12 
+The cost of the path is 68.0513
+
+The path is from 15 to 13 is: 15 10 4 14 13 
+The cost of the path is 79.0411
+
+The path is from 15 to 14 is: 15 10 4 14 
+The cost of the path is 42.4254
+
