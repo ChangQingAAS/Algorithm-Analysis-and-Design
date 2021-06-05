@@ -1,0 +1,7 @@
+-----------------KNAPSACK_01------------recursion----------
+
+FileIndex	n	c	Answer	TimeSpent	TotalRecurseTime
+    1    	5   26   correct   0.00300ms	    94
+    2    	10   165   correct   0.01000ms	    1593
+    3    	15   750   correct   0.44000ms	    103933
+    4    	24   6404180   correct   167.58500ms	    36575790

@@ -1,0 +1,8 @@
+-----------------KNAPSACK_02------------iteration----------
+
+FileIndex	n	c	Answer	TimeSpent
+    1    	4   20   correct   0.00020ms
+    2    	10   269   correct   0.00120ms
+    3    	20   878   correct   0.00760ms
+    4    	23   10000   correct   0.09160ms
+    5    	100   995   correct   0.03430ms
